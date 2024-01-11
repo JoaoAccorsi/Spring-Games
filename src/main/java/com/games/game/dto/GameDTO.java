@@ -5,7 +5,7 @@ import org.springframework.beans.BeanUtils;
 import com.games.game.entities.Game;
 
 public class GameDTO {
-    
+
     private Long id;
     private String title;
     private Integer year;
