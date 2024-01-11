@@ -19,7 +19,7 @@ public class GameListController {
 	
 	@GetMapping
 	public List<GameListDTO> findAll() {
-			// Return the available Games Genres 
+			// Return the available Games Genres
 		return gameListService.findAll();
     }
 }
