@@ -58,6 +58,7 @@ docker-compose up -d
 
 ![image](https://github.com/JoaoAccorsi/Spring-Games/assets/60155867/c474032d-a51b-4970-80f1-a8dbc6948220)
 
+To see the endpoints via any API Platform, you may import file `Insomnia-Spring-Games.json` via Insomnia, Postman...
 
 ## Technologies 
 
