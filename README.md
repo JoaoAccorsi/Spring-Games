@@ -1,10 +1,8 @@
 # Spring Games
 
-Spring Games is a backend implementation of a Game Application which expose some games via endpoints.
+Spring Games is a backend implementation of a Game Application which expose some games via endpoints. The data is stored into H2 database for the development environment, and into PostgreSQL with Docker for the test one.
 
-The data is stored into H2 database for the development environment, and into PostgreSQL with Docker for the test one.
-
-The program is a Spring Boot Application, developed based in the Spring Boot Training provided by teacher Nelio Alves, from YouTube channel DevSuperior.
+The program is a Spring Boot Application, developed based in the Spring Boot Training provided by professor Nelio Alves, from YouTube channel DevSuperior.
 
 ## Domain Model:
 
