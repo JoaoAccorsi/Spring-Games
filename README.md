@@ -48,7 +48,7 @@ git clone https://github.com/JoaoAccorsi/Spring-Games.git
 
 # Docker
 
-Navigate to the folder where script `docker-compose.yml` is located, and run the below command to initialize two containers Postgresql 12 e pgAdmin 4:
+Navigate to the folder where script `docker-compose.yml` is located, and run the below command to initialize two containers (Postgresql and pgAdmin):
 
 ```bash
 docker-compose up -d
